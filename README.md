@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Mittal</h1>
-<h3 align="center">A Sophomore Computer Engineer</h3>
+<h3 align="center">A Junior Computer Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
